@@ -1,0 +1,11 @@
+Support created by Niceguynate aka swimfreak
+
+- textures from farmers delight support used, created by same creator
+- Azaela textures from Dokucraft heavily used
+- #18830 for shape of coffee berries
+- #21136 for shape of tea seeds
+- #13423 for shape of coffee beans
+- #18920 for Glass mug for coffee
+- #17222 for tea cup standardization
+
+- Gui support created by SyndiShanX
